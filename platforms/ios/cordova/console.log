@@ -1,0 +1,18 @@
+2015-06-18 19:13:19.224 myApp[44054:9701898] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tracethompson/Library/Developer/CoreSimulator/Devices/5DE03879-68E4-4EC4-9E94-7B52C2676629/data/Containers/Data/Application/A03CE564-E8CF-4A6F-BC8B-03313C445EB7/Library/Cookies/Cookies.binarycookies
+2015-06-18 19:13:19.456 myApp[44054:9701898] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-18 19:13:19.456 myApp[44054:9701898] Multi-tasking -> Device: YES, App: YES
+2015-06-18 19:13:19.468 myApp[44054:9701898] Unlimited access to network resources
+2015-06-18 19:13:19.757 myApp[44054:9701898] [CDVTimer][keyboard] 0.052035ms
+2015-06-18 19:13:19.887 myApp[44054:9701898] [CDVTimer][splashscreen] 129.685998ms
+2015-06-18 19:13:19.887 myApp[44054:9701898] [CDVTimer][TotalPluginStartup] 130.231023ms
+2015-06-18 19:13:20.151 myApp[44054:9701898] Resetting plugins due to page load.
+2015-06-18 19:13:20.352 myApp[44054:9701898] Finished load of: file:///Users/tracethompson/Library/Developer/CoreSimulator/Devices/5DE03879-68E4-4EC4-9E94-7B52C2676629/data/Containers/Bundle/Application/04553B5A-327B-40DC-A257-809291613E66/myApp.app/www/index.html#/tab/dash
+2015-06-19 15:45:27.973 myApp[45311:9873246] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tracethompson/Library/Developer/CoreSimulator/Devices/5DE03879-68E4-4EC4-9E94-7B52C2676629/data/Containers/Data/Application/DB1B92C9-5FFD-471F-8E10-A7CE39DC5F14/Library/Cookies/Cookies.binarycookies
+2015-06-19 15:45:28.095 myApp[45311:9873246] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:45:28.095 myApp[45311:9873246] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:45:28.104 myApp[45311:9873246] Unlimited access to network resources
+2015-06-19 15:45:28.208 myApp[45311:9873246] [CDVTimer][keyboard] 0.054002ms
+2015-06-19 15:45:28.292 myApp[45311:9873246] [CDVTimer][splashscreen] 83.807051ms
+2015-06-19 15:45:28.292 myApp[45311:9873246] [CDVTimer][TotalPluginStartup] 84.149003ms
+2015-06-19 15:45:28.381 myApp[45311:9873246] Resetting plugins due to page load.
+2015-06-19 15:45:28.533 myApp[45311:9873246] Finished load of: file:///Users/tracethompson/Library/Developer/CoreSimulator/Devices/5DE03879-68E4-4EC4-9E94-7B52C2676629/data/Containers/Bundle/Application/38E64E9B-A7D8-4B12-B33F-86829AAA310E/myApp.app/www/index.html#/tab/dash
